@@ -11,7 +11,9 @@ Client can order differnt types of sushi:
 * Shrimp tempura
 * Philadelphia 
 * Spicy Tuna 
+
 The client can decide if they want a normal roll or deep fried roll and even add toppings:
+
 * Cream Cheesee
 * Avocado 
 * Eel sauce 
